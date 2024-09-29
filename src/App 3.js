@@ -340,10 +340,7 @@ function Search({ query, setQuery }) {
   //   // el.focus();
   // }, []);
   const inputEl = useRef(null);
-  useKey("Enter", function () {
-    if (document.activeElement === inputEl.current) return;
-    inputEl.current.focus();
-  });
+  useKey("Enter");
   // useEffect(function () {
   //   function callback(e) {
   //     if (document.activeElement === inputEl.current) return;

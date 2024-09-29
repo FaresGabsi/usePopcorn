@@ -41,7 +41,7 @@ To learn more about the OMDB API, visit the [OMDB API documentation](https://www
 
 ## Deployment
 
-The app is live and can be accessed at: [Placeholder for Website](#https://usepopcorn-by-fares.netlify.app/)
+The app is live and can be accessed at: [usepopcorn-by-fares.netlify.app](https://usepopcorn-by-fares.netlify.app/)
 
 ## Features
 
